@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yipulerina
-- 👀 I’m interested in "Data Analytics"
-- 🌱 I’m currently learning R and python for data analysis
-- 💞️ I’m looking to collaborate on any projects related to analysing data
+- 👀 I’m interested in "Data Science"
+- 🌱 I’m currently improving my machine learning knowledge.
+- 💞️ I’m looking to collaborate on any projects related to machine learning
 
 
 <!---
