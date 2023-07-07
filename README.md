@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yipulerina
-- 👀 I'm currently learning machine learning.
-- 🌱 IHow to reach me : yipulerina29@gmail.com
+- 👀 I'm currently learning Data Science.
+- 🌱 How to reach me : lerinayipu@gmail.com
 - 💞️ I’m looking to collaborate on any projects related to machine learning
 
 
